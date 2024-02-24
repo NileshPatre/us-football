@@ -1,0 +1,900 @@
+[
+    {
+        "teamName": "Washington Huskies",
+        "totalScore": 4.5,
+        "overallScore": [
+            {
+                "label": "Points Scored Per Game",
+                "value": "pointsScoredPerGame",
+                "score": 37.6
+            },
+            {
+                "label": "Net Passing Yard Per Game",
+                "value": "netPassingYardPerGame",
+                "score": 350
+            },
+            {
+                "label": "Rushing Yards Per Game",
+                "value": "rushingYardsPerGame",
+                "score": 123.6
+            }
+        ],
+        "passing": [
+            {
+                "player": "Michael Penix Jr",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 292.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 332
+                    },
+                    {
+                        "label": "Touchdowns Per Game",
+                        "value": "touchdownsPerGame",
+                        "score": 2.5
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "332(2)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "162(2)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "204(2)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "319(1)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "430(2)"
+                    }
+                ]
+            }
+        ],
+        "rushing": [
+            {
+                "player": "Dillon Johnson",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 37.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 89.4
+                    },
+                    {
+                        "label": "Attempts Per Game",
+                        "value": "attemptsPerGame",
+                        "score": 17.1
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "104(23)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "89(16)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "82(21)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "152(28)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "49(21)"
+                    }
+                ]
+            },
+            {
+                "player": "Tybo Rogers",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 19.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 18.2
+                    },
+                    {
+                        "label": "Attempts Per Game",
+                        "value": "attemptsPerGame",
+                        "score": 4.3
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "21(5)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "24(2)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "1(1)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "14(3)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "19(5)"
+                    }
+                ]
+            }
+        ],
+        "receiving": [
+            {
+                "player": "Rome Odunze",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 89.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 110.9
+                    },
+                    {
+                        "label": "Receptions Per Game",
+                        "value": "receptionsPerGame",
+                        "score": 6.2
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "111(3)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "106(7)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "120(7)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "102(8)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "125(6)"
+                    }
+                ]
+            },
+            {
+                "player": "Ja'Lynn Polk",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 48.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 93.5
+                    },
+                    {
+                        "label": "Receptions Per Game",
+                        "value": "receptionsPerGame",
+                        "score": 5.4
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "148(5)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "52(5)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "55(4)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "57(5)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "122(5)"
+                    }
+                ]
+            },
+            {
+                "player": "Jalen McMillan",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 59.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 87.7
+                    },
+                    {
+                        "label": "Receptions Per Game",
+                        "value": "receptionsPerGame",
+                        "score": 6.5
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "120(8)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "96(4)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "26(5)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "131(9)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "58(5)"
+                    }
+                ]
+            },
+            {
+                "player": "Jack Westover",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 26.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 27.9
+                    },
+                    {
+                        "label": "Receptions Per Game",
+                        "value": "receptionsPerGame",
+                        "score": 2.9
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "64(7)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "43(4)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "25(2)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "4(1)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "59(6)"
+                    }
+                ]
+            }
+        ],
+        "touchDowns": [
+            {
+                "player": "Dillon Johnson",
+                "score": [
+                    {
+                        "label": "ATD Odds",
+                        "value": "ATDOdds",
+                        "score": -110
+                    },
+                    {
+                        "label": "Rushing TDs",
+                        "value": "rushingTDs",
+                        "score": 16
+                    },
+                    {
+                        "label": "Reveiving TDs",
+                        "value": "reveivingTDs",
+                        "score": 0
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": 1
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": 1
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": 2
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": 2
+                    }
+                ]
+            },
+            {
+                "player": "Rome Odunze",
+                "score": [
+                    {
+                        "label": "ATD Odds",
+                        "value": "ATDOdds",
+                        "score": -113
+                    },
+                    {
+                        "label": "Rushing TDs",
+                        "value": "rushingTDs",
+                        "score": 1
+                    },
+                    {
+                        "label": "Reveiving TDs",
+                        "value": "reveivingTDs",
+                        "score": 13
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": 2
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": 2
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": 2
+                    }
+                ]
+            },
+            {
+                "player": "Ja'Lynn Polk",
+                "score": [
+                    {
+                        "label": "ATD Odds",
+                        "value": "ATDOdds",
+                        "score": 215
+                    },
+                    {
+                        "label": "Rushing TDs",
+                        "value": "rushingTDs",
+                        "score": 1
+                    },
+                    {
+                        "label": "Reveiving TDs",
+                        "value": "reveivingTDs",
+                        "score": 9
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": 2
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": 1
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "teamName": "Michigan Wolverines",
+        "totalScore": -4.5,
+        "overallScore": [
+            {
+                "label": "Points Scored Per Game",
+                "value": "pointsScoredPerGame",
+                "score": 36
+            },
+            {
+                "label": "Net Passing Yard Per Game",
+                "value": "netPassingYardPerGame",
+                "score": 218.9
+            },
+            {
+                "label": "Rushing Yards Per Game",
+                "value": "rushingYardsPerGame",
+                "score": 159.5
+            }
+        ],
+        "passing": [
+            {
+                "player": "JJ McCarthy",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 199.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 203.6
+                    },
+                    {
+                        "label": "Touchdowns Per Game",
+                        "value": "touchdownsPerGame",
+                        "score": 1.6
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "60(0)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "141(0)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "148(1)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "147(0)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "221(3)"
+                    }
+                ]
+            }
+        ],
+        "rushing": [
+            {
+                "player": "Blake Corum",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 103.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 79.4
+                    },
+                    {
+                        "label": "Attempts Per Game",
+                        "value": "attemptsPerGame",
+                        "score": 16.9
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "145(26)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "94(28)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "88(22)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "52(16)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "83(19)"
+                    }
+                ]
+            },
+            {
+                "player": "Donovan Edwards",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 31.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 28
+                    },
+                    {
+                        "label": "Attempts Per Game",
+                        "value": "attemptsPerGame",
+                        "score": 8.1
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "52(10)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "39(11)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "31(10)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "28(4)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "11(4)"
+                    }
+                ]
+            }
+        ],
+        "receiving": [
+            {
+                "player": "Roman Wilson",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 48.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 56.5
+                    },
+                    {
+                        "label": "Receptions Per Game",
+                        "value": "receptionsPerGame",
+                        "score": 3.5
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "143(9)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "23(1)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "36(3)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "14(1)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "73(4)"
+                    }
+                ]
+            },
+            {
+                "player": "Cornelius Johnson",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 39.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 44.5
+                    },
+                    {
+                        "label": "Receptions Per Game",
+                        "value": "receptionsPerGame",
+                        "score": 3.4
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "24(2)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "24(3)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "33(4)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "64(9)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "12(2)"
+                    }
+                ]
+            },
+            {
+                "player": "Colston Loveland",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 35.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 41.8
+                    },
+                    {
+                        "label": "Receptions Per Game",
+                        "value": "receptionsPerGame",
+                        "score": 3
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "7(2)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "36(3)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "88(5)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "22(3)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "13(2)"
+                    }
+                ]
+            },
+            {
+                "player": "Donovan Edwards",
+                "score": [
+                    {
+                        "label": "Line",
+                        "value": "line",
+                        "score": "O/U 14.5"
+                    },
+                    {
+                        "label": "Yards Per Game",
+                        "value": "yardsPerGame",
+                        "score": 17.8
+                    },
+                    {
+                        "label": "Receptions Per Game",
+                        "value": "receptionsPerGame",
+                        "score": 2.1
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": "0(0)"
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": "0(0)"
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": "5(2)"
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": "19(4)"
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": "0(0)"
+                    }
+                ]
+            }
+        ],
+        "touchDowns": [
+            {
+                "player": "Blake Corum",
+                "score": [
+                    {
+                        "label": "ATD Odds",
+                        "value": "ATDOdds",
+                        "score": -400
+                    },
+                    {
+                        "label": "Rushing TDs",
+                        "value": "rushingTDs",
+                        "score": 25
+                    },
+                    {
+                        "label": "Reveiving TDs",
+                        "value": "reveivingTDs",
+                        "score": 1
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": 2
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": 2
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": 2
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": 2
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": 1
+                    }
+                ]
+            },
+            {
+                "player": "Roman Wilson",
+                "score": [
+                    {
+                        "label": "ATD Odds",
+                        "value": "ATDOdds",
+                        "score": 182
+                    },
+                    {
+                        "label": "Rushing TDs",
+                        "value": "rushingTDs",
+                        "score": 0
+                    },
+                    {
+                        "label": "Reveiving TDs",
+                        "value": "reveivingTDs",
+                        "score": 12
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": 1
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": 1
+                    }
+                ]
+            },
+            {
+                "player": "Colston Loveland",
+                "score": [
+                    {
+                        "label": "ATD Odds",
+                        "value": "ATDOdds",
+                        "score": 245
+                    },
+                    {
+                        "label": "Rushing TDs",
+                        "value": "rushingTDs",
+                        "score": 0
+                    },
+                    {
+                        "label": "Reveiving TDs",
+                        "value": "reveivingTDs",
+                        "score": 4
+                    }
+                ],
+                "lastFiveGames": [
+                    {
+                        "gameNo": 1,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 2,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 3,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 4,
+                        "stats": 0
+                    },
+                    {
+                        "gameNo": 5,
+                        "stats": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
