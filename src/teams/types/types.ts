@@ -16,8 +16,8 @@ export type TeamDetails = {
   teamName: string;
   totalScore: number;
   overallScore: Score[];
-  passing: PlayerStats;
-  rushing: PlayerStats;
-  receiving: PlayerStats;
-  touchDowns: PlayerStats;
+  passing: PlayerStats[];
+  rushing: PlayerStats[];
+  receiving: PlayerStats[];
+  touchDowns: PlayerStats[];
 };
